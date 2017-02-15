@@ -1,4 +1,4 @@
-import Promise from './promise.service.ts';
+// import Promise from './promise.service.ts';
 
 export default class BootstrapService {
   public static resolve;
